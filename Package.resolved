@@ -11,6 +11,15 @@
         }
       },
       {
+        "package": "CollectionConcurrencyKit",
+        "repositoryURL": "https://github.com/johnsundell/collectionConcurrencyKit.git",
+        "state": {
+          "branch": null,
+          "revision": "b4f23e24b5a1bff301efc5e70871083ca029ff95",
+          "version": "0.2.0"
+        }
+      },
+      {
         "package": "Files",
         "repositoryURL": "https://github.com/johnsundell/files.git",
         "state": {
@@ -33,17 +42,17 @@
         "repositoryURL": "https://github.com/johnsundell/plot.git",
         "state": {
           "branch": null,
-          "revision": "ccabb2674ca0d9ccfabd5e7c0c44c6cca6c827fb",
-          "version": "0.5.0"
+          "revision": "b358860fe565eb53e98b1f5807eb5939c8124547",
+          "version": "0.11.0"
         }
       },
       {
         "package": "Publish",
         "repositoryURL": "https://github.com/johnsundell/publish.git",
         "state": {
-          "branch": null,
-          "revision": "ff50bdcc154efd89a16eb7006182e7d70ef38aff",
-          "version": "0.4.0"
+          "branch": "swift-concurrency",
+          "revision": "add68b550b9d68ae2c5706d5d451c3af4b84b5fe",
+          "version": null
         }
       },
       {
@@ -60,8 +69,8 @@
         "repositoryURL": "https://github.com/johnsundell/sweep.git",
         "state": {
           "branch": null,
-          "revision": "d357d12c9558e51f037bf2f956d5cf6c73dc0d44",
-          "version": "0.3.0"
+          "revision": "801c2878e4c6c5baf32fe132e1f3f3af6f9fd1b0",
+          "version": "0.4.0"
         }
       }
     ]
