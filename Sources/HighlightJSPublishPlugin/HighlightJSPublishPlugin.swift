@@ -31,7 +31,7 @@ public extension Modifier {
 
             let highlighted = highlighter.highlight(String(code),
                                                     as: String(language))
-            return "<pre data-language=\"\(highlighted.language)\"><code>\(highlighted.value)\n</code></pre>"
+            return "<pre data-language=\"\(highlighted.language)\" class=\"hljs\"><code>\(highlighted.value)\n</code></pre>"
         }
     }
 }
