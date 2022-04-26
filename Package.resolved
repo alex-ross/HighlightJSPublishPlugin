@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/johnsundell/files.git",
         "state": {
           "branch": null,
-          "revision": "22fe84797d499ffca911ccd896b34efaf06a50b9",
-          "version": "4.1.1"
+          "revision": "d273b5b7025d386feef79ef6bad7de762e106eaf",
+          "version": "4.2.0"
         }
       },
       {
@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/johnsundell/ink.git",
         "state": {
           "branch": null,
-          "revision": "a9a1a0190aaacc9058a2bfbdcd831785eac26f43",
-          "version": "0.3.0"
+          "revision": "77c3d8953374a9cf5418ef0bd7108524999de85a",
+          "version": "0.5.1"
         }
       },
       {
@@ -50,9 +50,9 @@
         "package": "Publish",
         "repositoryURL": "https://github.com/johnsundell/publish.git",
         "state": {
-          "branch": "swift-concurrency",
-          "revision": "add68b550b9d68ae2c5706d5d451c3af4b84b5fe",
-          "version": null
+          "branch": null,
+          "revision": "1c8ad00d39c985cb5d497153241a2f1b654e0d40",
+          "version": "0.9.0"
         }
       },
       {

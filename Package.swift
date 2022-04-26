@@ -15,7 +15,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/johnsundell/publish.git",
-            branch: "swift-concurrency"
+            from: "0.9.0"
         ),
     ],
     targets: [
