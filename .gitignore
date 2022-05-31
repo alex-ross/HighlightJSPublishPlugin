@@ -1,4 +1,5 @@
 .DS_Store
+.swiftpm
 /*.xcodeproj
 /.build
 /Packages
