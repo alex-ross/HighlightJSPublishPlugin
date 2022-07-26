@@ -18,7 +18,7 @@ Add HighlightJSPublishPlugin to your package.
 let package = Package(
     ...
     dependencies: [
-        .package(url: "https://github.com/alex-ross/highlightjspublishplugin", from: "1.0.0")
+        .package(name: "HighlightJSPublishPlugin", url: "https://github.com/alex-ross/highlightjspublishplugin", from: "1.0.0")
     ],
     targets: [
         .target(
